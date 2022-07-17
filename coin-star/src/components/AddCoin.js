@@ -1,11 +1,11 @@
 import React from 'react'
 
-const CoinDetailPage = () => {
+const AddCoin = () => {
     return (
         <div>
-            App
+
         </div>
     )
 }
 
-export default CoinDetailPage
+export default AddCoin
